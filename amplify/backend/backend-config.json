@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"notesaab41c37": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
